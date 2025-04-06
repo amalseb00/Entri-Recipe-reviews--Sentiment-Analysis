@@ -1,1 +1,1 @@
-# Entri-elevate_Capstone-Project--Sentiment-Analysis
+# Entri_Capstone-Project--Sentiment-Analysis
